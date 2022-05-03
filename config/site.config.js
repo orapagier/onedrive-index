@@ -50,11 +50,15 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
+      link: 'https://github.com/orapagier/onedrive-index',
     },
     {
       name: 'Messenger',
       link: 'https://m.me/jelmar.orapa.1',
+    },
+     {
+      name: 'Youtube',
+      link: 'https://www.youtube.com/channel/UCsbSLlv-eVA-O5jARIyJ9iQ',
     },
   ],
 
